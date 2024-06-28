@@ -1,4 +1,4 @@
-My Blog Application
+Simple Blog Application
 This is a simple blog application built with Node.js, Express, Axios, and EJS, without the use of a database. It allows users to create, edit, and delete blog posts.
 
 Features
